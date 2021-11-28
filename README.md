@@ -1,8 +1,4 @@
-# Szakdolgozat-file-formatters
-
-## [D] Elektronikus melléklet - Fájlformázó programkódok
-
-<br>
+# [D] Elektronikus melléklet - Fájlformázó programkódok
 
 ### Készítette: Vass Máté (Neptun: GEVJ5W)
 
